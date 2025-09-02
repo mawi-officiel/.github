@@ -49,8 +49,38 @@ Built on principles of precision, discipline, and absolute control, every projec
       Connect with MAWI MAN for professional collaborations and innovative projects
     </p>
 
+  <a href="https://www.youtube.com/@mawiman.officiel" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-mawiman.officiel-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/mawiman.officiel" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-mawiman.officiel-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://www.tiktok.com/@mawiman.officiel" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-mawiman.officiel-000000?style=for-the-badge&logo=tiktok" alt="TikTok">
+  </a>
+  <a href="https://www.facebook.com/mawiman.officiel" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-mawiman.officiel-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="https://x.com/mawi_officiel" target="_blank">
+      <img src="https://img.shields.io/badge/X-mawi__officiel-000000?style=for-the-badge&logo=x" alt="X">
+  </a>
   <a href="https://github.com/mawi-officiel" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-mawi--officiel-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://discord.gg/UBEk9v5Sdy" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+  <a href="https://whatsapp.com/channel/0029VaZiDZZBA1eywvByM80x" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://www.linkedin.com/in/mawi-man" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-mawi--man-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.reddit.com/user/mawi-man/" target="_blank">
+      <img src="https://img.shields.io/badge/Reddit-mawi--man-FF4500?style=for-the-badge&logo=reddit" alt="Reddit">
+  </a>
+  <a href="https://t.me/mawiman_officiel" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-mawiman__officiel-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 
 </div>
