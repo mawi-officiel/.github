@@ -1,0 +1,9 @@
+# Configuration file for GitHub Issue Templates
+# This file customizes the issue creation experience for MAWI MAN
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: 🌐 MAWI MAN Official Website
+    url: https://www.mawiman.com
+    about: Visit our official website for comprehensive documentation and resources
