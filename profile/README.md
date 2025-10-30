@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚔️ <strong>MAWI MAN</strong></h1>
   <p><em>MAWI MAN – Code is free, Power is ours</em></p>
-  <img src="https://www.mawiman.com/assets/img/mawiman/Icon-1.png" alt="MAWI MAN" width="40%">
+  <img src="https://mawi-officiel.github.io/assets/img/mawiman/Icon-1.png" alt="MAWI MAN" width="40%">
   <hr>
 </div>
 
@@ -33,12 +33,8 @@ Built on principles of precision, discipline, and absolute control, every projec
 
 <div align="center">
 
-  <a href="https://www.mawiman.com">
-    <img src="https://img.shields.io/badge/🌍_Official_Website-www.mawiman.com-dc2626?style=for-the-badge" alt="Official Website">
-  </a>
-  
-  <a href="mailto:contact@mawiman.com">
-      <img src="https://img.shields.io/badge/📧_Contact-contact%40mawiman.com-blue?style=for-the-badge" alt="Contact">
+  <a href="https://mawi-officiel.github.io">
+    <img src="https://img.shields.io/badge/🌍_Official_Website-mawi-officiel.github.io-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 
 </div>
