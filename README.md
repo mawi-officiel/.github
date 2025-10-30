@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://mawi-officiel.github.io">
-    <img src="https://img.shields.io/badge/Official_Website-mawi-officiel.github.io-dc2626?style=for-the-badge" alt="Official Website">
+    <img src="https://img.shields.io/badge/Official_Website-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 
 </div>

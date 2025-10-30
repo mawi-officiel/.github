@@ -34,7 +34,7 @@ Built on principles of precision, discipline, and absolute control, every projec
 <div align="center">
 
   <a href="https://mawi-officiel.github.io">
-    <img src="https://img.shields.io/badge/🌍_Official_Website-mawi-officiel.github.io-dc2626?style=for-the-badge" alt="Official Website">
+    <img src="https://img.shields.io/badge/🌍_Official_Website-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 
 </div>
