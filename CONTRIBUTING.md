@@ -156,7 +156,7 @@ If you have questions about contributing:
 
 1. **Check existing documentation** and issues
 2. **Create a discussion** in the repository
-3. **Contact us** at [mawiman.officiel@gmail.com](mailto:mawiman.officiel@gmail.com)
+3. **Contact us** at [ayoub@mawiman.com](mailto:ayoub@mawiman.com)
 
 ## 🙏 Recognition
 

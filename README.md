@@ -4,7 +4,7 @@
   <img src="./img/Icon.svg" alt="MAWI MAN" width="40%">
 </div>
 <div align="center">
-  <a href="https://mawi-officiel.github.io">
+  <a href="https://www.mawiman.com">
     <img src="https://img.shields.io/badge/Official_Website-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 

@@ -21,7 +21,7 @@ If you discover a security vulnerability in any MAWI MAN project, please report 
 
 Instead, please report security vulnerabilities by emailing us at:
 
-**🔐 Security Email:** [mawiman.officiel@gmail.com](mailto:mawiman.officiel@gmail.com)
+**🔐 Security Email:** [ayoub@mawiman.com](mailto:ayoub@mawiman.com)
 
 ### 📋 What to Include
 
@@ -106,9 +106,9 @@ The following are generally considered out of scope for security reports:
 
 For security-related inquiries:
 
-- **Security Email**: [mawiman.officiel@gmail.com](mailto:mawiman.officiel@gmail.com)
-- **General Contact**: [mawiman.officiel@gmail.com](mailto:mawiman.officiel@gmail.com)
-- **Website**: [https://mawi-officiel.github.io](https://mawi-officiel.github.io)
+- **Security Email**: [ayoub@mawiman.com](mailto:ayoub@mawiman.com)
+- **General Contact**: [ayoub@mawiman.com](mailto:ayoub@mawiman.com)
+- **Website**: [https://www.mawiman.com](https://www.mawiman.com)
 
 ## 📄 Security Updates
 
