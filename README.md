@@ -1,7 +1,7 @@
 <div align="center">
   <h1><strong>MAWI MAN</strong></h1>
   <p><em>MAWI MAN – Code is free, Power is ours</em></p>
-  <img src="https://mawi-officiel.github.io/assets/img/mawiman/Icon-1.png" alt="MAWI MAN" width="40%">
+  <img src="./img/Icon.svg" alt="MAWI MAN" width="40%">
 </div>
 <div align="center">
   <a href="https://mawi-officiel.github.io">
