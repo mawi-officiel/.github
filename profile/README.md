@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚔️ <strong>MAWI MAN</strong></h1>
   <p><em>MAWI MAN – Code is free, Power is ours</em></p>
-  <img src="../img/Icon.svg" alt="MAWI MAN" width="40%">
+  <img src="./../img/Icon.svg" alt="MAWI MAN" width="40%">
   <hr>
 </div>
 
