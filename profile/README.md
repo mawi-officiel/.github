@@ -2,6 +2,10 @@
   <h1>⚔️ <strong>MAWI MAN</strong></h1>
   <p><em>MAWI MAN – Code is free, Power is ours</em></p>
   <img src="https://github.com/mawi-officiel/.github/raw/main/img/Icon.svg" alt="MAWI MAN" width="40%">
+  <div align="center">
+  <a href="https://ko-fi.com/X8X21OVRQI">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Official Website">
+  </a>
   <hr>
 </div>
 
