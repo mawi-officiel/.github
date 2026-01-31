@@ -1,0 +1,12 @@
+-?mawi=0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+$test_1=true
+$test_2=false
+$test_3=false
+$test_4=false
+--?
+-?mawi=3124 3461 6497 6491 2484 2619 3459 6159 6526 5616 3164 2154
+$bta2017import_com=true
+$Games_Airplane_1=false
+$Games_Amigo_1=false
+$Games_Joki5_1=false
+--?
